@@ -33,7 +33,7 @@ class ModularityTests {
 	void verifyModularity() {
 
 		// --> Module model
-		// System.out.println(modules.toString());
+		System.out.println(modules.toString());
 
 		// --> Trigger verification
 		modules.verify();
